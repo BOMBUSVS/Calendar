@@ -1,0 +1,9 @@
+C:\Users\1\Documents\C#02\twelvemonths\twelvemonths\bin\Debug\twelvemonths.exe
+C:\Users\1\Documents\C#02\twelvemonths\twelvemonths\bin\Debug\twelvemonths.pdb
+C:\Users\1\Documents\C#02\twelvemonths\twelvemonths\obj\Debug\twelvemonths.csprojAssemblyReference.cache
+C:\Users\1\Documents\C#02\twelvemonths\twelvemonths\obj\Debug\twelvemonths.Form1.resources
+C:\Users\1\Documents\C#02\twelvemonths\twelvemonths\obj\Debug\twelvemonths.Properties.Resources.resources
+C:\Users\1\Documents\C#02\twelvemonths\twelvemonths\obj\Debug\twelvemonths.csproj.GenerateResource.cache
+C:\Users\1\Documents\C#02\twelvemonths\twelvemonths\obj\Debug\twelvemonths.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\C#02\twelvemonths\twelvemonths\obj\Debug\twelvemonths.exe
+C:\Users\1\Documents\C#02\twelvemonths\twelvemonths\obj\Debug\twelvemonths.pdb
